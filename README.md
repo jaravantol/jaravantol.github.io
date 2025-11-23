@@ -1,2 +1,0 @@
-# jaravantol.github.io
-Website
